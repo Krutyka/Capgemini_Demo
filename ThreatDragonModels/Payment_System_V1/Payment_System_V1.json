@@ -1,0 +1,16 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Payment_System_V1",
+    "owner": "Krutika Umale ",
+    "description": "Threat Modeling a \"Payment Gateway\": A User sending Credit Card Info to a Web Server, which then saves it to a Database.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
